@@ -1,5 +1,4 @@
-# Netflix-data-analysis
-
+# Netflix data analysis
 
 # Ohoud aljawi
 
@@ -8,5 +7,6 @@
 
 # load bakage:
 library(tidyverse)
+
 
 
